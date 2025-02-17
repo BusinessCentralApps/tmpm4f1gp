@@ -1,8 +1,9 @@
 {
-  "templateUrl": "https://github.com/Microsoft/al-go-pte@preview",
+  "templateUrl": "https://github.com/businesscentralapps/tmpA0SVvQ-PTE@main",
   "type": "PTE",
   "powerPlatformSolutionFolder": "CoffeMR",
   "runs-on": "ubuntu-latest",
   "shell": "pwsh",
-  "MicrosoftTelemetryConnectionString": ""
+  "MicrosoftTelemetryConnectionString": "",
+  "templateSha": "1b673ed7399e803c6f5ecd392e8a827ff1d691ec"
 }
